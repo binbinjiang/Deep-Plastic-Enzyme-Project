@@ -61,4 +61,4 @@ python train_protein_enzyme.py --batch_size 32 --esm_seq_type esm2 --mode eval -
 3. Too many things to do.
 
 ## Statement 
-THis repository is for Lingrong only! For her means for the entire of the human!
+This repository is for Lingrong use only! For her means for all humanity!
